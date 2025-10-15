@@ -25,6 +25,7 @@ Public Class WebControlManager
     'Commit in master 9
     'Commit in master 10
     'Commit in master 11
+    'Commit in master 12
   End Sub
 
   Public Shared Sub EnsureBrowserEmulationEnabled(Optional exename As String = "MarkdownMonster.exe", Optional uninstall As Boolean = False)
