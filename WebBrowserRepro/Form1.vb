@@ -16,6 +16,7 @@ Public Class Form1
     'Test Commit in Branch 1
     'Noch ein Commit in Branch 1
     'Noch ein Commit in Branch 1 dfsdsf
+    'Noch ein Commit in Branch 1 4
   End Sub
 
 End Class
