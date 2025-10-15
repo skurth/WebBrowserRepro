@@ -13,6 +13,8 @@ Public Class WebControlManager
 
     EnsureBrowserEmulationEnabled("WebBrowserRepro.exe")
     EnsureBrowserEmulationEnabled("WebBrowserRepro64.exe")
+
+    'Commit in master
   End Sub
 
   Public Shared Sub EnsureBrowserEmulationEnabled(Optional exename As String = "MarkdownMonster.exe", Optional uninstall As Boolean = False)
