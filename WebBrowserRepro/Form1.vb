@@ -21,6 +21,8 @@ Public Class Form1
     'Commit in Branch-2
 
     'Commit in master
+
+    'Commit in Branch 3 again
   End Sub
 
 End Class
