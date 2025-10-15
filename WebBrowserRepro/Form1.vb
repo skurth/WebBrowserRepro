@@ -1,4 +1,4 @@
-﻿Imports System.IO
+Imports System.IO
 
 Public Class Form1
 
@@ -17,7 +17,8 @@ Public Class Form1
     'Noch ein Commit in Branch 1
     'Noch ein Commit in Branch 1 dfsdsf
     'Noch ein Commit in Branch 1 4
-
+    
+    'Commit in Branch-2
 
     'Commit in master
   End Sub
