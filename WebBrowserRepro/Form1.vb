@@ -11,6 +11,12 @@ Public Class Form1
     'WebBrowser1.Url = New Uri("C:\Temp\test.html")
     'WebBrowser1.Url = New Uri("File:///C:\Temp\test.html")
     WebBrowser1.DocumentText = sHtml
+
+
+    'Test Commit in Branch 1
+    'Noch ein Commit in Branch 1
+    'Noch ein Commit in Branch 1 dfsdsf
+    'Noch ein Commit in Branch 1 4
   End Sub
 
 End Class
